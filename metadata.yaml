@@ -1,0 +1,34 @@
+_repo: Gigolo_20419
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ferber, Edna
+    birthdate: 1885
+    deathdate: 1968
+    gutenberg_agent_id: '193'
+    url: http://www.gutenberg.org/2009/agents/193
+    wikipedia: http://en.wikipedia.org/wiki/Edna_Ferber
+description: This 1922 collection of eight stories features The Afternoon of a Faun,
+  Old Man Minick, Gigolo, Not a Day Over Twenty-one, Home Girl, Ain't Nature Wonderful!
+  The Sudden Sixties, and If I Should Ever Travel! The title story was made into a
+  1926 movie the first but not the last of her tales to be filmed.
+gutenberg_issued: '2007-01-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20419'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American'
+- !lcsh 'Manners and customs -- Fiction'
+- !lcc 'PS'
+tableOfContents: The afternoon of a faun -- Old man Minick -- Gigolo -- Not a day
+  over twenty-one -- Home girl -- Ain't nature wonderful! -- The sudden sixties --
+  If I should ever travel!
+title: Gigolo
+url: http://www.gutenberg.org/ebooks/20419
